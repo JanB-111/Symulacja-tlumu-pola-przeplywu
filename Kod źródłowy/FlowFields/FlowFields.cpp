@@ -49,7 +49,6 @@ bool stworzonoAktorow = false;
 
 Symulacja symulacja;
 
-
 #define MAX_LOADSTRING 100
 
 
